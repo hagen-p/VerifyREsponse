@@ -396,3 +396,17 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# .Net
+/test/
+/src/VerifyResponse/obj/
+/src/VerifyResponse/bin/
+/src/VerifyResponse/verifyresponse.zip
+src/VerifyResponse/verifyresponse.zip
+src/VerifyResponse/verifyresponse.zip
+src/VerifyResponse/bin/Debug/net8.0/VerifyResponse.dll
+src/VerifyResponse/bin/Debug/net8.0/VerifyResponse.pdb
+src/VerifyResponse/bin/Release/net8.0/linux-x64/VerifyResponse.dll
+src/VerifyResponse/bin/Release/net8.0/linux-x64/VerifyResponse.pdb
+src/VerifyResponse/bin/Release/net8.0/publish/VerifyResponse.dll
+src/VerifyResponse/bin/Release/net8.0/publish/VerifyResponse.pdb
